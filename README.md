@@ -224,7 +224,7 @@
     </div>
 
     <footer>
-        <p>Student Grade Calculator © 2025 | Designed for educational purposes By Ankesh's Team in ITM Gwalior</p>
+        <p>Student Grade Calculator © 2025 | Designed for educational purposes By Dispositor's Team in ITM Gwalior</p>
     </footer>
 
     <script src="PblScript.js"></script>
